@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WardDevs
+- 👀 I’m interested in Lua
+- 🌱 I’m currently learning JS and C#
